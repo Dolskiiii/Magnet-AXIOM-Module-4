@@ -13,7 +13,7 @@ The objective of this assignment was to complete the Magnet AXIOM module 4. It w
 
 | Tool                   | Version        | Used For                                        |
 |------------------------|----------------|-------------------------------------------------|
-| Magnet AXIOM           | 9.10.1.47349   | A digital forensics platform used to analyze hard drives or images of hard drives.|
+| Magnet AXIOM           | 9.10.1.47349   | A paid digital forensics platform used to collect, analyze, and correlate evidence from computers, mobile devices, and cloud data in a single case.|
 | PicPick                | 7.4.0          | A software to edit photos, so it is easier to see important information. |
 
 ## Required Flags 
